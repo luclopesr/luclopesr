@@ -13,8 +13,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/luclopesr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luclopesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=800080&bg_color=000000&border_color=800080&text_color=ffffff&icon_color=800080"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luclopesr&layout=compact&langs_count=7&theme=dark&title_color=800080&bg_color=000000&border_color=800080"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luclopesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=800080&bg_color=000000&border_color=800080&text_color=ffffff&icon_color=800080"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luclopesr&layout=compact&langs_count=7&theme=dark&title_color=800080&bg_color=000000&border_color=800080"/>
 </div>
 
 #
