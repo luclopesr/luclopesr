@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas. Seja bem-vindo(a) ao meu perfil! 👋🏼💻🔥
 
 - 🐛 Estudando ferramentas de Front-end
-- 🐣 Iniciando estudo de Full-stack
+- 🐣 Iniciando estudo de Fullstack
 
 #
 <div align="center" style="display: inline_block">
